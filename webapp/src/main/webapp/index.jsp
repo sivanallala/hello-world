@@ -1,3 +1,3 @@
-<h1> Hello, Welcome to Simple DevOps Project !!   </h1>
-<h2> Deploying on tomcat view </h2>
+<h1> nake emi radhu :) !!   </h1>
+<h2> edhantha bommalata shekhar mama :p </h2>
 

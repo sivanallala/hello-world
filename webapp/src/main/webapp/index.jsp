@@ -1,3 +1,3 @@
-<h1> nake emi radhu :) !!   </h1>
-<h2> edhantha bommalata shekhar mama :p </h2>
+<h1> simple devops project using maven !!   </h1>
+<h2> install to tomcta server :p </h2>
 
